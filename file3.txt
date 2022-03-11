@@ -5,3 +5,5 @@ Second line of the file.
 Third line of the file.
 
 I am creating this for the local commits.
+
+This is another test for the local commits.
