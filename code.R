@@ -24,3 +24,5 @@ server <- function(input, output, session) {
 
 ## Add a new comments here
 shinyApp(ui, server)
+
+## Made a change on the Github remote repo
