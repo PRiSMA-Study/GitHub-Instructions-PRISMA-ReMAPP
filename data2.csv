@@ -1,0 +1,20 @@
+﻿OUTCOME,LEVEL,ROLE,DEFINITION,TIMING,RESPONSE
+Composite maternal health,primary,Maternal,"As death or any unintended outcomes of the process of labor and delivery that result in significant short-term or long-term consequences to a woman’s health. If admitted to critical care/ICU,  includes a checklist of 21 severe maternal morbidity indicators.",During pregnancy to 42 days postpartum.,Yes/no
+Postpartum depression,primary,Maternal,,,
+Postpartum anemia,primary,Maternal,Hemoglobin concentration <12 g/dL at six to eight weeks postpartum.,42 days postpartum.,Anemic/Non-anemic
+Maternal mortality,secondary,Maternal,"Death from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes) during pregnancy and childbirth or within 42 days of termination of pregnancy, irrespective of the duration and site of the pregnancy.",Pregnancy through 42 days postpartum,Yes/no
+Late maternal mortality,secondary,Maternal,"Death from any cause related to or aggravated by pregnancy or its management (excluding accidental or incidental causes), irrespective of the duration and site of the pregnancy.",42 days postpartum up to 1 year.,Yes/no
+Preeclampsia/eclampsia,secondary,Maternal,"Onset of a new episode of hypertension during pregnancy, characterized by: persistent hypertension (diastolic blood pressure ≥ 90 mm Hg) and substantial proteinuria (> 0.3 g/24 hours).",>20 weeks gestation or postpartum.,Yes/no
+Postpartum hemorrhage,secondary,Maternal,500 mL blood loss within 24 hours of delivery* or >1000 mL within 24 hours** regardless of delivery mode and/or reported postpartum hemorrhage. ,Labor and delivery,Yes/no
+Preterm PROM,secondary,Maternal,"Rupture of membranes before the onset of labor, occurring before labor and before 37 weeks of gestation.",<37 weeks of gestation,Yes/no
+Maternal sepsis,secondary,Maternal,Organ dysfunction resulting from infection.,"Pregnancy, labor and delivery, postpartum",Yes/no
+Postpartum fatigue,secondary,Maternal,"Decreased capacity for physical and mental activity after childbirth, a persistent lack of energy, impairments in concentration and attention not easily relieved by rest or sleep.",42 days postpartum (delivered with EPDS).,Yes/no 
+Preterm birth,primary,Birth,"Delivery prior to 37 completed weeks of gestation of a birth (live birth or stillbirth); gestational age will be based on CRL in most cases, or combined LMP and later-term ultrasound.",<37 weeks of gestation,"Yes/no; Extremely preterm (<28 weeks), very preterm (28-32 weeks), moderate to late preterm (<37 weeks)."
+Small for gestational age,primary,Birth,Birthweight of lower than the sex-specific 10th percentile for each week of gestational age.,Delivery,Yes/no
+Stillbirth,primary,Birth,"Death prior to delivery of a fetus at or after 28 weeks of gestation (or over 1000g, if gestational age is unavailable).",<28 weeks of gestation,Yes/no (stillbirth); Antepartum/intrapartum
+Low birthweight,secondary,Birth,Live born infant <2500 grams,Delivery,Yes/no
+Neonatal mortality,primary,Neonatal,Death of a live born infant within the first 28 days of life.,Delivery to 28 days.,Yes/no
+Hyperbilirubinemia,secondary,Neonatal,Total serum bilirubin level above 5 mg per dL (86 μmol per L).,Delivery,Yes/no
+Possible severe bacterial infection,secondary,Neonatal,"Presence of any of the following clinical signs or symptoms consistent with meningitis, spesis, and/or pneumonia: not able to feed since birth or stopped feeding well (confirmed by observation), convulsions, fast breathing (60 breaths per minute or more) among infants less than 7 days old, severe chest in-drawing, fever (38 °C or greater), low body temperature (less than 35.5 °C), movement only when stimulated or no movement at all.",Delivery to 59 days,Yes/no
+Birth asphyxia,secondary,Neonatal,"Insufficient blood flow or gas exchange to or from the fetus in the period immediately before, during, or after the birth process.",Labor & delivery,Yes/no
+Infant neurological development,secondary,Neonatal,Assessment of early childhood development and incidence of infant brain injuries.,"3 months, 1 year",TBD
