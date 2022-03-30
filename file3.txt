@@ -11,4 +11,6 @@ This is another test for the local commits.
 #03/28/2022
 I have added some contents on March 28.
 
-This is the change made from the remote end. #Made change from local/remote end at the same time
+
+Made changes from both local/remote end at the same time and resolve the conflicts at the merge.
+
