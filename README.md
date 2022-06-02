@@ -20,10 +20,12 @@ You can set the repository either public (can be seen by everyone on the interne
 
 Please add a `readme.md` fime to your repository to give an overview of the project and help other members and outsiders understand how to navigate the files.
 
+### Ask questions using `Issue` feature
+
+If you have any questions about a specific file in certain repository, we recommend to open an issue using the `Issue` feature and tag the person/team from whom you would like to get the response. After your question is resolved, close the issue.
+
 ### Contact
 
 Please contact the ReMAPP Github administrator if you have any questions regarding managing the repositories.
-
-### Questions
 
 If you have any questions regarding git or Github usage, [Github documentation](https://docs.github.com/en), [stackoverflow](https://stackoverflow.com) and Google are the resourceful places where you may find your answer.  
