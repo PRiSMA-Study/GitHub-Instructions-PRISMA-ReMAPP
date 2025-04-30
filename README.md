@@ -6,7 +6,7 @@ If you are new to Github, please take a look at the tutorial([link](https://docs
 
 ### Invite people & Add team
 
-If you would like to invite people to the Github group, please contact the administrator Xiaoyan (@XiaoyanHu666) or Stacie (@sloisate2) and provide the invitee's Github username/email. The administrator will then send an email inviation to the invitee. After the invitee accepts the invitation they will be added to the group.
+If you would like to invite people to the Github group, please contact the administrator Stacie (stacie.loisate@gwu.edu) and provide the invitee's Github username/email. The administrator will then send an email inviation to the invitee. After the invitee accepts the invitation they will be added to the group.
 
 Please find you team and ask the team maintainer to add you as a member/maintainer to the team.
 
