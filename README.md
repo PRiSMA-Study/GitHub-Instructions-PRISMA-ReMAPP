@@ -34,6 +34,6 @@ For each repository/project, if you have any questions, we recommend to open an 
 
 ### Contact
 
-Please contact the administrator Xiaoyan (@XiaoyanHu666) or Stacie (@sloisate2) if you have any questions regarding managing the repositories.
+Please contact the administrator Stacie (stacie.loisate@gwu.edu) if you have any questions regarding managing the repositories.
 
 If you have any questions regarding git or Github practice, more resources are available at [Github documentation](https://docs.github.com/en), [stackoverflow](https://stackoverflow.com) and Google.  
