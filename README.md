@@ -1,12 +1,12 @@
-## Github Instructions
+## GitHub Instructions
 
 ### Start
 
-If you are new to Github, please take a look at the tutorial([link](https://docs.google.com/document/d/19EXEpKWBzH4EtXDf3eoLqGKe4GvqroeU9BXtMyYYEKQ/edit)/[video demo](https://www.dropbox.com/s/p3f8mcmg59rgje8/Github%20Data%20Manager%20Meeting%202022-04-10.mp4?dl=0)/[Youtube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)) for the preparation and step-by-step instructions.
+If you are new to GitHub, please take a look at the tutorial([link](https://docs.google.com/document/d/19EXEpKWBzH4EtXDf3eoLqGKe4GvqroeU9BXtMyYYEKQ/edit)/[video demo](https://www.dropbox.com/s/p3f8mcmg59rgje8/Github%20Data%20Manager%20Meeting%202022-04-10.mp4?dl=0)/[Youtube](https://www.youtube.com/watch?v=SWYqp7iY_Tc)) for the preparation and step-by-step instructions.
 
 ### Invite people & Add team
 
-If you would like to invite people to the Github group, please contact the administrator Stacie (stacie.loisate@gwu.edu) and provide the invitee's Github username/email. The administrator will then send an email inviation to the invitee. After the invitee accepts the invitation they will be added to the group.
+If you would like to invite people to the GitHub group, please contact the administrator Casey (ckalman@gwu.edu) and provide the invitee's GitHub username/email. The administrator will then send an email invitation to the invitee. After the invitee accepts the invitation they will be added to the group.
 
 Please find you team and ask the team maintainer to add you as a member/maintainer to the team.
 
@@ -18,7 +18,7 @@ Please DO add a `readme.md` file with your repository to give an overview of the
 
 Please DO update your repository in a timely manner.
 
-Please DO contact with the adminstrator if you have any questions regrading the Github practice.
+Please DO contact with the administrator if you have any questions regarding the GitHub practice.
 
 :x: Please DO NOT
 
@@ -34,6 +34,6 @@ For each repository/project, if you have any questions, we recommend to open an 
 
 ### Contact
 
-Please contact the administrator Stacie (stacie.loisate@gwu.edu) if you have any questions regarding managing the repositories.
+Please contact the administrator Casey (ckalman@gwu.edu) if you have any questions regarding managing the repositories.
 
 If you have any questions regarding git or Github practice, more resources are available at [Github documentation](https://docs.github.com/en), [stackoverflow](https://stackoverflow.com) and Google.  
